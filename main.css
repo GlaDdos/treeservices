@@ -17,7 +17,7 @@ h2 {
 }
 
 p {
-  margin: 2em 0;
+  margin: 1em 0;
 
 }
 
@@ -116,6 +116,33 @@ nav li {
   border-style: none;
   color: #fff;
   background-color: #7cc576;
+}
+
+.about {
+  display: flex;
+  align-items: center;
+  min-height: 500px;
+}
+
+.items-wrapper {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  padding-top: 3em;
+}
+
+.about-item {
+  display: flex;
+  flex-direction: column;
+
+  margin-left: .5em;
+  margin-right: .5em;
+}
+
+.about-item img {
+  height: 55px;
+  width: auto;
+  margin-bottom: 1.5em;
 }
 
 /* media queries */
