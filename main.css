@@ -213,6 +213,38 @@ nav li {
   max-width: 100%;
 }
 
+.portfolio {
+  display: flex;
+  align-items: center;
+  min-height: 600px;
+  background-image: url('./img/background-portfolio.png');
+  background-repeat: no-repeat;
+  background-position: bottom right;
+}
+
+.portfolio .wrapper {
+  width: 90%;
+}
+
+.project-container {
+  max-width: 470px;
+}
+
+.project-feature {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+}
+
+.feature-img {
+  display: inline-block
+}
+
+.feature-description {
+  display: inline-block;
+  padding-left: 1em;
+}
 
 /* media queries */
 @media screen and (max-width: 768px){
