@@ -312,7 +312,6 @@ q {
   min-height: 600px;
 }
 
-
 .next-proj {
   display: flex;
   align-items: center;
@@ -320,6 +319,46 @@ q {
   background-color: #7cc576;
   color: #fff;
   min-height: 400px;
+}
+
+.logos {
+  display: flex;
+  min-height: 150px;
+
+}
+
+.logos .wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: row;
+  flex-wrap: wrap;
+
+  width: 100%;
+
+}
+
+.logo-item {
+  max-width: 200px;
+  display: inline-block;
+}
+
+.img-greyscale {
+  filter: none;
+  -webkit-filter: grayscale(100%);
+  -moz-filter:    grayscale(100%);
+  -ms-filter:     grayscale(100%);
+  -o-filter:      grayscale(100%);
+  cursor: pointer;
+  transition: filter 500ms ease;
+}
+
+.img-greyscale:hover {
+  filter: none;
+  -webkit-filter: grayscale(0%);
+  -moz-filter:    grayscale(0%);
+  -ms-filter:     grayscale(0%);
+  -o-filter:      grayscale(0%);
 }
 
 /* media queries */
