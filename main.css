@@ -13,7 +13,7 @@
 }
 
 h2 {
-  font-size: 3em;
+  font-size: 2.5em;
 }
 
 p {
@@ -209,6 +209,20 @@ nav li {
   background-color: #7cc576;
 }
 
+.white-btn {
+  min-width: 250px;
+  font-weight: 700;
+  font-size: 1.5em;
+  color: #fff;
+  line-height: 2em;
+  padding: .2em;
+  border-radius: .5em;
+  border: 3px solid #fff;
+  background-color: transparent;
+  margin-top: 2em;
+
+}
+
 .img-responsive {
   max-width: 100%;
 }
@@ -296,6 +310,16 @@ q {
   display: flex;
   align-items: center;
   min-height: 600px;
+}
+
+
+.next-proj {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #7cc576;
+  color: #fff;
+  min-height: 400px;
 }
 
 /* media queries */
