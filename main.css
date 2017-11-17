@@ -361,6 +361,43 @@ q {
   -o-filter:      grayscale(0%);
 }
 
+
+.contact {
+  display: flex;
+  align-items: center;
+  min-height: 500px;
+  background-color: #232322;
+  color: #fff;
+}
+
+.contact .wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+  width: 100%;
+}
+
+.contact-column {
+  max-width: 320px
+}
+
+.contact-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+
+  margin: 1em 0;
+}
+
+.contact-icon {
+  width: 15%;
+}
+
+.contact-description {
+  padding-left: .5em;
+}
 /* media queries */
 @media screen and (max-width: 768px){
   nav nav ul a {
