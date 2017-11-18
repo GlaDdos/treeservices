@@ -12,9 +12,9 @@
    id="svg3336"
    version="1.1"
    inkscape:version="0.91 r13725"
-   width="28.3172"
-   height="30"
-   viewBox="0 0 28.3172 30"
+   width="29.013786"
+   height="30.696587"
+   viewBox="0 0 29.013787 30.696587"
    sodipodi:docname="grown_sticks.svg">
   <metadata
      id="metadata3342">
@@ -44,12 +44,12 @@
      id="namedview3338"
      showgrid="false"
      inkscape:zoom="10.609488"
-     inkscape:cx="0.29708331"
-     inkscape:cy="-4.6852773"
-     inkscape:window-x="65"
+     inkscape:cx="-17.215995"
+     inkscape:cy="-4.3369836"
+     inkscape:window-x="1985"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g4438"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -58,12 +58,12 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 2"
-     transform="translate(-0.02127701,-0.03023583)" />
+     transform="translate(0.32701588,0.31805706)" />
   <g
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="Layer 1"
-     transform="translate(-0.02127701,-0.03023583)">
+     transform="translate(0.32701588,0.31805706)">
     <g
        id="g4438">
       <ellipse
@@ -72,7 +72,7 @@
          cy="15.030236"
          cx="14.179877"
          id="path4171"
-         style="fill:none;stroke:#000000;stroke-width:0.80341423;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:none;stroke:#767676;stroke-width:1.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <g
          transform="matrix(0.36093679,0,0,0.36093679,5.732287,4.3959479)"
          id="g4160">
@@ -93,6 +93,24 @@
            id="path3352"
            inkscape:connector-curvature="0" />
       </g>
+      <path
+         style="fill:#767676;stroke:#767676;stroke-width:0.14138289;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.79999995;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+         d="m 13.854389,25.500966 c -0.168955,-0.106048 -0.391475,-0.331051 -0.494488,-0.500006 -0.181947,-0.298416 -0.187307,-0.487015 -0.187649,-6.602485 -3.39e-4,-6.055989 0.0066,-6.308989 0.183457,-6.655588 0.442853,-0.868065 1.724062,-0.870058 2.188853,-0.0034 0.16188,0.301842 0.17223,0.699587 0.17223,6.61883 0,6.801021 0.01856,6.542001 -0.50358,7.029723 -0.336283,0.314119 -0.956207,0.36564 -1.358823,0.11293 z"
+         id="path4712"
+         inkscape:connector-curvature="0"
+         transform="translate(-0.32701588,-0.31805706)" />
+      <path
+         style="fill:#767676;fill-opacity:1;stroke:#767676;stroke-width:0.14138289;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.79999995;stroke-dasharray:none;stroke-opacity:1"
+         d="M 19.864023,25.477819 C 19.160367,25.003708 19.204546,25.683068 19.204382,15.334254 19.204221,5.149222 19.166658,5.7991331 19.785592,5.2783348 20.053938,5.0525364 20.15155,5.026416 20.590871,5.0628479 c 0.358563,0.029735 0.569779,0.1058765 0.746981,0.2692806 0.525778,0.4848383 0.505543,0.082422 0.505385,10.0509065 -1.32e-4,8.588239 -0.01138,9.238509 -0.164947,9.539672 -0.357744,0.701579 -1.20991,0.962316 -1.814267,0.555112 z"
+         id="path4714"
+         inkscape:connector-curvature="0"
+         transform="translate(-0.32701588,-0.31805706)" />
+      <path
+         style="fill:#767676;fill-opacity:1;stroke:#767676;stroke-width:0.14138289;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.79999995;stroke-dasharray:none;stroke-opacity:1"
+         d="M 7.9330453,25.592129 C 7.6038676,25.458963 7.2488352,24.953053 7.1865335,24.528374 c -0.032286,-0.220075 -0.045458,-1.905865 -0.029272,-3.746198 0.026265,-2.98628 0.047337,-3.378828 0.1959715,-3.650796 0.2081614,-0.380888 0.6032347,-0.590691 1.1123119,-0.590691 0.3305982,0 0.4507303,0.05794 0.7587227,0.365932 l 0.3659322,0.365932 -3.523e-4,3.757736 c -3.299e-4,3.560724 -0.01,3.773555 -0.1843424,4.059489 -0.3066819,0.502975 -0.9382745,0.718452 -1.4724599,0.502351 z"
+         id="path4716"
+         inkscape:connector-curvature="0"
+         transform="translate(-0.32701588,-0.31805706)" />
     </g>
   </g>
 </svg>

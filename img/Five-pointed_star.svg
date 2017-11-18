@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="28.3172"
-   height="30"
-   viewBox="0 0 5.6634399 6"
+   width="29.013786"
+   height="30.696587"
+   viewBox="0 0 5.8027572 6.1393173"
    id="svg4378"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -42,9 +42,9 @@
      id="namedview4384"
      showgrid="false"
      inkscape:zoom="10.830519"
-     inkscape:cx="7.6889185"
-     inkscape:cy="15.819556"
-     inkscape:window-x="65"
+     inkscape:cx="-9.3673096"
+     inkscape:cy="16.167849"
+     inkscape:window-x="1985"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4378"
@@ -56,23 +56,19 @@
      fit-margin-bottom="0" />
   <title
      id="title4380">Five Pointed Star</title>
-  <g
-     id="g4434"
-     transform="translate(-0.04913799,-0.04813901)">
-    <path
-       inkscape:connector-curvature="0"
-       style="fill:none;stroke:#000000;stroke-width:0.13872683;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.79999995;stroke-dasharray:none"
-       id="path4382"
-       d="m 2.8808579,1.0972904 0.520226,1.473973 1.560676,0 -1.213859,0.953747 0.433521,1.473973 -1.300564,-0.867043 -1.300564,0.867043 0.433521,-1.473973 -1.21385895,-0.953747 1.56067595,0 z" />
-    <ellipse
-       ry="2.9196587"
-       rx="2.7513785"
-       cy="3.0481391"
-       cx="2.8808579"
-       id="path4171"
-       style="fill:none;stroke:#000000;stroke-width:0.16068284;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-  </g>
+  <path
+     d="m 2.9013785,1.1188074 0.520226,1.473973 1.560676,0 -1.213859,0.953747 0.433521,1.473973 -1.300564,-0.867043 -1.300564,0.867043 0.433521,-1.473973 -1.21385889,-0.953747 1.56067589,0 z"
+     id="path4382"
+     style="fill:none;stroke:#767676;stroke-width:0.30000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.79999995;stroke-dasharray:none;stroke-opacity:1"
+     inkscape:connector-curvature="0" />
+  <ellipse
+     style="fill:none;stroke:#767676;stroke-width:0.30000001;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path4171"
+     cx="2.9013786"
+     cy="3.0696588"
+     rx="2.7513785"
+     ry="2.9196587" />
   <g
      id="g4160"
-     transform="matrix(0.07218736,0,0,0.07218736,1.1422022,0.8731426)" />
+     transform="matrix(0.07218736,0,0,0.07218736,1.2118609,0.94280127)" />
 </svg>
