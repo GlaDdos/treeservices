@@ -14,22 +14,26 @@
 }
 
 h2 {
-  font-size: 2.5em;
+  font-size: 2.5rem;
 }
 
 h3 {
-  font-size: 1.7em;
+  /* font-size: 1.7rem; */
 }
 
 p {
-  margin: 1em 0;
-  font-size: 1.1em;
+  margin: 1rem 0;
+  font-size: 1rem;
   color: #777;
 
 }
 
 p.small {
-  font-size: 1em;
+  font-size: .9rem;
+}
+
+p.heading {
+  font-size: 1.2rem;
 }
 
 .green {
@@ -78,8 +82,8 @@ nav .wrapper {
   align-items: center;
   display: flex;
   justify-content: space-between;
-  padding-top: 2em;
-  padding-bottom: 2em;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
 }
 
 .navbar-header {
@@ -97,7 +101,7 @@ nav ul a {
   text-decoration: none;
   text-transform: uppercase;
   color: #555;
-  transition: all .5 ease;
+  transition: all .5s ease;
 }
 
 nav ul a:hover {
@@ -155,21 +159,21 @@ nav li {
   display: flex;
   justify-content: center;
   flex-direction: row;
-  padding-top: 3em;
+  padding-top: 3rem;
 }
 
 .about-item {
   display: flex;
   flex-direction: column;
 
-  margin-left: .5em;
-  margin-right: .5em;
+  margin-left: .5rem;
+  margin-right: .5rem;
 }
 
 .about-item img {
   height: 55px;
   width: auto;
-  margin-bottom: 1.5em;
+  margin-bottom: 1.5rem;
 }
 
 .blog {
@@ -207,37 +211,37 @@ nav li {
 }
 
 .list-checkmark {
-  margin: 0 0 1em 0;
-  padding: 0 0 0 1em;
+  margin: 0 0 1rem 0;
+  padding: 0 0 0 1rem;
   list-style: none;
 }
 
 .list-checkmark-item {
   position: relative;
-  padding-left: 1em;
-  line-height: 2.5em;
-  font-size: 1.35em;
+  padding-left: 1rem;
+  line-height: 2.5rem;
+  font-size: 1.35rem;
 }
 
 .list-checkmark-item:before {
   content: '';
   position: absolute;
-  left: -1em;
-  top: 0.5em;
+  left: -1rem;
+  top: 0.5rem;
   background-image: url('./img/circle-checkmark.svg');
   background-repeat: no-repeat;
   background-size: cover;
-  width: 1.5em;
-  height: 1.5em;
+  width: 1.5rem;
+  height: 1.5rem;
 }
 
 .green-btn {
   min-width: 250px;
   font-weight: 700;
-  font-size: 1.5em;
-  line-height: 2em;
-  padding: .3em;
-  border-radius: 1.5em;
+  font-size: 1.2rem;
+  line-height: 2rem;
+  padding: .3rem;
+  border-radius: 1.5rem;
   border-style: none;
   cursor: pointer;
   color: #fff;
@@ -259,15 +263,15 @@ nav li {
 .white-btn {
   min-width: 250px;
   font-weight: 700;
-  font-size: 1.5em;
+  font-size: 1.2rem;
   color: #fff;
   cursor: pointer;
-  line-height: 2em;
-  padding: .2em;
-  border-radius: .5em;
+  line-height: 2rem;
+  padding: .2rem;
+  border-radius: .5rem;
   border: 3px solid #fff;
   background-color: transparent;
-  margin-top: 2em;
+  margin-top: 2rem;
   transition: background-color .5s ease;
 }
 
@@ -307,7 +311,7 @@ nav li {
   flex-direction: row;
   align-items: center;
 
-  margin: 1em 0 0 0;
+  margin: 1rem 0 0 0;
 }
 
 .feature-img {
@@ -316,7 +320,7 @@ nav li {
 
 .feature-description {
   display: inline-block;
-  padding-left: 1em;
+  padding-left: 1rem;
 }
 
 .line-after {
@@ -349,18 +353,19 @@ nav li {
 }
 
 q {
-  font-size: 1.5em;
+  font-size: 1.2rem;
   quotes: "\201E"  "\0022" "\0027" "\0027";
 }
 
 .quote-wrapper blockquote {
   max-width: 800px;
-  padding-left: 1.5em;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
   background-color: #f9f9f9;
 }
 
 .quote-footer {
-  font-size: 1.2em;
+  font-size: 1.2rem;
 }
 
 .quote-img {
@@ -457,7 +462,7 @@ q {
   justify-content: flex-start;
   align-items: center;
 
-  margin: 1em 0;
+  margin: 1rem 0;
 }
 
 .contact-icon {
@@ -470,7 +475,7 @@ q {
 }
 
 .contact-description {
-  padding-left: .5em;
+  padding-left: .5rem;
 }
 
 .main-footer {
@@ -488,7 +493,7 @@ q {
 }
 
 .footer-copyright {
-  margin-right: 3em;
+  margin-right: 3rem;
 }
 
 .social {
@@ -505,7 +510,7 @@ q {
   height: 75px;
   width: 75px;
   border-radius: 50%;
-  margin: 0 .5em;
+  margin: 0 .5rem;
   background-color: #242422;
 
   transition: background-color 500ms ease;
@@ -551,7 +556,7 @@ q {
     opacity: 0;
     text-align: center;
     transition: all 1s ease;
-    width: 100%;
+    
     visibility: hidden;
   }
 
@@ -559,8 +564,8 @@ q {
     border-bottom: 2px solid black;
     color: red;
     display: block;
-    font-size: 1.5em;
-    padding: 2em 0;
+    font-size: 1.5rem;
+    padding: 2rem 0;
   }
 
   nav #menu-toggle:checked ~ ul {
@@ -576,7 +581,7 @@ q {
     float: right;
     height: 35px;
     width: 35px;
-    margin-top: 1em;
+    margin-top: 1rem;
   }
 
   nav .wrapper {
