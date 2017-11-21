@@ -26,10 +26,6 @@ h2 {
   font-size: 2.5rem;
 }
 
-h3 {
-  /* font-size: 1.7rem; */
-}
-
 p {
   margin: 1rem 0;
   font-size: 1rem;
@@ -148,9 +144,6 @@ nav li {
   justify-content: space-between;
   align-items: center;
   margin: 2rem 0;
-}
-
-.logo {
 }
 
 .menu-toggle {
@@ -512,9 +505,6 @@ q {
   align-items: center;
   justify-content: space-between;
   width: 100%;
-}
-
-.footer-copyright {
 }
 
 .social {
