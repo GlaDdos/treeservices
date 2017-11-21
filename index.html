@@ -10,21 +10,26 @@
 </head>
 <body>
   <header class="navbar-header">
-    <nav class="navbar">
-      <nav class="wrapper">
-        <div class="logo"><img src="./img/logo.png" alt="treehouse logo" /></div>
-        <input type="checkbox" id="menu-toggle" />
-        <label for="menu-toggle" class="label-toggle"></label>
-        <ul>
-          <li><a href="#">Home</a></li>
-          <li><a href="#">About</a></li>
-          <li><a href="#">Blog</a></li>
-          <li><a href="#">Portfolio</a></li>
-          <li><a href="#">Contact</a></li>
-        </ul>
+    <div class="wrapper">
+      <nav class="navbar">
+        <div class="menu-controls">
+          <div class="logo"><img src="./img/logo.png" alt="treehouse logo" /></div>
+          <div class="menu-toggle"></div>
+        </div>
+        
+        <div class="menu-list">
+          <ul>
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#blog">Blog</a></li>
+            <li><a href="#portfolio">Portfolio</a></li>
+            <li><a href="#contact">Contact</a></li>
+          </ul>
+        </div>
       </nav>
-    </nav>
+    </div>
   </header>
+  <div class="fixed-menu-filler"></div>
 
   <main>
     <section id="home" class="home">
@@ -287,5 +292,8 @@
       </div>
     </div>
   </footer>
+
+  <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+  <script src="./main.js"></script>
 </body>
 </html>
